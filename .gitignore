@@ -1,0 +1,25 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+build/
+
+# env files
+.env*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# misc
+coverage/
+.vercel
