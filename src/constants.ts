@@ -57,6 +57,13 @@ export const DEVELOPER_INFO = {
       tech: ["TypeScript", "NextJs", "Gsap", "Tailwindcss"],
       image: "/civilize.png",
       link: "https://civilize-compro.vercel.app/"
+    },
+    {
+      title: "Aurelian Journey",
+      description: "Aurelian Journey merupakan website travel yang memberikan kesan mewah dan elegan, dengan style story telling yang mampu membawa pengunjung terhanyut dalam suasana fantasy liburan. Website ini sudah di lengkapi denga fitur Payment Gateway menggunakan Midtrans(Sandbox).",
+      tech: ["React Vite", "Tailwindcss", "Gsap"],
+      image: "/aurelian.png",
+      link: "https://aurelian-journey.vercel.app/"
     }
   ]
 };
