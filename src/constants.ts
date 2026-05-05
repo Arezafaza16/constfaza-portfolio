@@ -71,6 +71,13 @@ export const DEVELOPER_INFO = {
       tech: ["React Vite", "Tailwindcss", "Gsap", "NestJs", "MongoDB", "Fonnte", "Midtrans"],
       image: "/bali-concierge.png",
       link: "https://baliconcierge.vercel.app"
+    },
+    {
+      title: "Lumination",
+      description: "Lumination adalah website portofolio fotografer premium dengan kontras tinggi yang dirancang untuk seniman visual modern. Dibangun dengan fokus pada estetika sinematik, fotografi hitam-putih, dan pencahayaan dramatis, proyek ini menampilkan perpaduan antara realitas dan abstraksi.",
+      tech: ["React Vite", "Tailwindcss", "Gsap"],
+      image: "/lumination.png",
+      link: "https://lumination-portfolio.vercel.app"
     }
   ]
 };
