@@ -64,6 +64,13 @@ export const DEVELOPER_INFO = {
       tech: ["React Vite", "Tailwindcss", "Gsap"],
       image: "/aurelian.png",
       link: "https://aurelian-journey.vercel.app/"
+    },
+    {
+      title: "Bali Concierge",
+      description: "Bali Concierge merupakan website travel untuk tur guide yang berfokus pada wisata watersport dan Alam. Website ini dilengkapi fitur Payment Gateway menggunakan Midtrans(Sandbox). Dan mengimplementasikan fitur automatic whatsapp sender dimana setiap kali user melakukan booking, admin akan otomatis menerima data user berikut OTP via whatsapp. Untuk melakukan test pembayaran: 1. Pilih paket, 2. Pilih tanggal dan jumlah guest, 3. Click 'Check Avalaibility', 4. Click 'Book Now', 5. Klik 'Continue to Payment'. 6. Pilih metode pembayaran, 7. Pergi ke alamat 'https://simulator.sandbox.midtrans.com/' lalu pilih metode pembayaran yang sebelum nya di pilih, contoh: Virtual Acccount -> BCA VA, 8. Masukan kode VA lalu klik inquire, 9. Balik ke halaman baliconcierge lalu klik 'check status' untuk melihat status pembayaran. Kemudian OTP akan muncul. Whatsapp Admin akan menerima data anda dan kode OTP anda.",
+      tech: ["React Vite", "Tailwindcss", "Gsap", "NestJs", "MongoDB", "Fonnte", "Midtrans"],
+      image: "/bali-concierge.png",
+      link: "https://baliconcierge.vercel.app"
     }
   ]
 };
